@@ -1,0 +1,19 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+# VisDrone2019-DET dataset https://github.com/VisDrone/VisDrone-Dataset
+# Example usage: python train.py --data VisDrone.yaml
+# parent
+# ├── yolov5
+# └── datasets
+#     └── FaceMask  ← downloads here
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+#path: C:/Users/Sneakerx/Desktop/yolo/face_mask_datasetes  # dataset root dir
+path: ../face_mask_datasetes
+train: train/images  # train images (relative to 'path')  6471 images
+val: valid/images  # val images (relative to 'path')  548 images
+# test: VisDrone2019-DET-test-dev/images  # test images (optional)  1610 images
+
+# Classes
+nc: 3  # number of classes
+names: ['face', 'mask', 'face_mask']
