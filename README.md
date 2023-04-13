@@ -10,7 +10,7 @@ This is the code for the paper "[An Improved Lightweight YOLOv5 Model Based on A
 3. There are lots of comments in Chinese written by me among the code, maybe it could help you understand the code (Since it is my first work, there might be some mistakes, please be careful).
 4. The yolov5 is updated frequently by ultralytics. The baseline in my repo might be not the newest, you can combine it with the newest version.
 
-If you find this benchmark helpful, please use the citation:
+If you find this work helpful, please use the citation:
 ```
 @inproceedings{
 title={An Improved Lightweight YOLOv5 Model Based on Attention Mechanism for Face Mask Detection},
