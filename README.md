@@ -12,11 +12,11 @@ This is the code for the paper "[An Improved Lightweight YOLOv5 Model Based on A
 
 If you find this work helpful, please use the citation:
 ```
-@inproceedings{
-title={An Improved Lightweight YOLOv5 Model Based on Attention Mechanism for Face Mask Detection},
-author={Sheng Xu and Zhanyu Guo and Yuchi Liu and Jingwei Fan and Xuxu Liu},
-booktitle={International Conference on Artificial Neural Networks},
-year={2022},
-url={https://link.springer.com/chapter/10.1007/978-3-031-15934-3_44}
+@inproceedings{xu2022improvedyolov5,
+  title={An improved lightweight yolov5 model based on attention mechanism for face mask detection},
+  author={Xu, Sheng and Guo, Zhanyu and Liu, Yuchi and Fan, Jingwei and Liu, Xuxu},
+  booktitle={International Conference on Artificial Neural Networks},
+  pages={531--543},
+  year={2022},
 }
 ```
