@@ -1,7 +1,7 @@
 # Improved Lightweight YOLOv5 for Face Mask Detection
 This is the code for the paper "[An Improved Lightweight YOLOv5 Model Based on Attention Mechanism for Face Mask Detection](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_44)" published in ICANN 2022. Note that:
 
-1. The implementation of the baselines are based on the code from [ultralytics/yolov5](https://github.com/ultralytics/yolov5).
+1. The implementation of the baselines is based on the code from [ultralytics/yolov5](https://github.com/ultralytics/yolov5).
 2. The dataset is from [AIZOOTech](https://github.com/AIZOOTech/FaceMaskDetection).
 
 ## How to use the code
